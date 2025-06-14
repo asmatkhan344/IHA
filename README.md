@@ -1,2 +1,2 @@
 # IHA
-Inhouse Applications 
+Inhouse Applications (IHA)
